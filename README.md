@@ -1,4 +1,4 @@
-Old Chat Spam For Twitch
+# Old Chat Spam For Twitch
 
 You Need auth Tokens, an example: un46b7h2xtp5wx0zm0vm769adznm03 (this on is email verified) - Needs to be Phone Verified NOT Email
 - Emails gets blocked easiser
